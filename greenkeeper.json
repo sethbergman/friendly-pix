@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "friendlypix/web/functions/package.json",
+        "friendlypix/web/package.json"
+      ]
+    }
+  }
+}
