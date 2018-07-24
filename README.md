@@ -1,5 +1,7 @@
 # Firebase Quickstarts for Javascript
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/friendly-pix.svg)](https://greenkeeper.io/)
+
 A collection of quickstart samples demonstrating the Firebase APIs using the Javascript SDK. For more information, see https://firebase.google.com.
 
 Samples available:
